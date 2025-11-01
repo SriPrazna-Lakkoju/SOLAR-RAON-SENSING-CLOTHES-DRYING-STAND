@@ -17,6 +17,12 @@ When the rain stops and sunlight returns, the stand reopens automatically.
 COMPONENTS USED:
 
 Arduino UNO
+
+
 Solar Panel
+
+
 Servo Motor
+
+
 Rain Drop Sensor
